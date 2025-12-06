@@ -1,6 +1,6 @@
 package models
 
-//go get github.com/shopspring/decimal
+//go get github.com/shopspring/decimal < necessário instalar
 import "github.com/shopspring/decimal"
 
 type inf_diario struct {
